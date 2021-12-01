@@ -127,9 +127,9 @@ calli.on("message", async message => {
 **Security**
 \`${prefix}settings\`
 \`${prefix}punishment\`
-
+\`BY MCHA DEV 🖤🔥
 **Links**
-[Support](https://discord.gg/UfX6U7e5sH) - [Invite]()
+[Support](https://discord.gg/UfX6U7e5sH) - [Invite](https://discord.com/api/oauth2/authorize?client_id=843316105819848704&permissions=8&scope=bot)
       
       
       `);
@@ -201,7 +201,7 @@ calli.on("message", async message => {
     let help = new Discord.MessageEmbed()
       .setColor(callicolor)
       .setDescription(`
-[Click here](https://discord.com/api/oauth2/authorize?client_id=${calli.user.id}&permissions=8&scope=bot) **to invite the bot.**
+[Click here](https://discord.com/api/oauth2/authorize?client_id=843316105819848704&permissions=8&scope=bot) **to invite the bot.**
 `);
     message.channel.send(help);
   }
