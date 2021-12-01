@@ -66,7 +66,7 @@ calli.on("message", message => {
   }
 });
 ///////////////////////////////////////////////////////////////////////////////
-calli.login("")
+calli.login("ODQzMzE2MTA1ODE5ODQ4NzA0.YKCFUw.8R_VjUWp2rOn0LH8IZyLYbkXqX0")
 ///////////////////////////////////////////////////////////////////////////////
 const callienabled  = "";
 const callidisabled = "";
@@ -79,7 +79,7 @@ const calliwarn     = "";                                                       
 ///////////////////////////////////////////////////////////////////////////////
 calli.on("ready", () => {
   console.log(`${calli.user.tag}`);
-  calli.user.setActivity(`${prefix}help`, {
+  calli.user.setActivity(`${prefix}help BY MCHA DEV 🖤🔥`, {
     Type: "Playing"
   });
 });
